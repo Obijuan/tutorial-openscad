@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE language SYSTEM "language.dtd">
+<language name="OpenSCAD" version="1.04" kateversion="2.4" section="Other" extensions="*.scad" mimetype="text/x-openscad-text" priority="2">
+  <highlighting>
+    <list name="keywords">
+
+    </list>
+    
+    <list name="objects">   
+        <item> circle</item> 
+        <item> cube</item> 
+        <item> cylinder</item> 
+        <item> import_dxf</item> 
+        <item> import_stl</item> 
+        <item> polygon</item> 
+        <item> polyhedron</item> 
+        <item> sphere</item> 
+        <item> square</item> 
+    </list>
+    
+    <list name="transforms">
+        <item> intersection</item> 
+        <item> linear_extrude</item> 
+        <item> rotate</item> 
+        <item> rotate_extrude</item> 
+        <item> scale</item> 
+        <item> slices</item> 
+        <item> translate</item> 
+        <item> twist</item> 
+        <item> union</item> 
+        <item> mirror</item> 
+        <item> projection</item> 
+        <item> hull</item> 
+        <item> difference</item> 
+    </list>
+
+
+    <list name="constants">
+        <item> $fa</item> 
+        <item> $fn</item> 
+        <item> $fs</item> 
+    </list>
+
+    <list name="functions">
+        <item> acos</item> 
+        <item> asin</item> 
+        <item> atan</item> 
+        <item> atan2</item> 
+        <item> ceil</item> 
+        <item> cos</item> 
+        <item> sin</item> 
+        <item> abs</item> 
+        <item> center</item> 
+        <item> color</item> 
+        <item> convexity</item> 
+        <item> ln</item> 
+        <item> log</item> 
+        <item> lookup</item> 
+        <item> max</item> 
+        <item> min</item> 
+        <item> round</item> 
+        <item> sign</item> 
+        <item> sqrt</item> 
+        <item> str</item> 
+        <item> tan</item> 
+        <item> minkowski</item> 
+        <item> multimatrix</item> 
+        <item> origin</item> 
+        <item> pow</item> 
+        <item> rands</item> 
+        <item> render</item> 
+        <item> height</item> 
+        <item> exp</item> 
+        <item> floor</item> 
+    </list>
+
+    <list name="directives">
+        <item> else</item> 
+        <item> for</item> 
+        <item> if</item> 
+        <item> use</item> 
+        <item> include</item> 
+        <item> module</item>
+    </list>
+
+    <list name="attention">
+      <item> FIXME </item>
+      <item> TODO </item>
+      <item> ### </item>
+    </list>
+
+    <contexts>
+      <context attribute="Normal Text" lineEndContext="#stay" name="Normal">
+        <keyword attribute="Objects" context="#stay" String="objects" />
+        <keyword attribute="Transforms" context="#stay" String="transforms" />
+        <keyword attribute="Filetype" context="#stay" String="filetypes" />
+        <keyword attribute="Keyword" context="#stay" String="identifiers" />
+        <keyword attribute="Constant" context="#stay" String="constants" />
+        <keyword attribute="Functions" context="#stay" String="functions" />
+        <keyword attribute="Directives" context="#stay" String="directives" />
+        <keyword attribute="Keyword" context="#stay" String="keywords" />
+        <Float attribute="Float" context="#stay"/>
+        <Int attribute="Float" context="#stay"/>     
+        <HlCChar attribute="Char" context="#stay"/>
+        <DetectChar attribute="String" context="String" char="&quot;"/>
+        <Detect2Chars attribute="Comment" context="Commentar 1" char="/" char1="/"/>
+        <Detect2Chars attribute="Comment" context="Commentar 2" char="/" char1="*" beginRegion="Comment"/>
+        <DetectChar attribute="Symbol" context="#stay" char="{" beginRegion="Brace1" />
+        <DetectChar attribute="Symbol" context="#stay" char="}" endRegion="Brace1" />
+        <AnyChar attribute="Symbol" context="#stay" String=":!%&amp;()+,-/.*&lt;=&gt;?[]{|}~^&#59;"/>
+      </context>
+      
+      <context attribute="String" lineEndContext="#pop" name="String">
+        <LineContinue attribute="String" context="#stay"/>
+        <HlCStringChar attribute="String Char" context="#stay"/>
+        <DetectChar attribute="String" context="#pop" char="&quot;"/>
+      </context>
+
+      <context attribute="Comment" lineEndContext="#pop" name="Commentar 1">
+        <keyword attribute="Decimal" context="#stay" String="attention" />
+      </context>
+
+      <context attribute="Comment" lineEndContext="#stay" name="Commentar 2">
+        <keyword attribute="Decimal" context="#stay" String="attention" />
+        <Detect2Chars attribute="Comment" context="#pop" char="*" char1="/" endRegion="Comment"/>
+      </context>
+
+      <context attribute="Comment" lineEndContext="#stay" name="Commentar">
+        <Detect2Chars attribute="Comment" context="#pop" char="*" char1="/" />
+      </context>
+    </contexts>
+
+    <itemDatas>
+      <itemData name="Normal Text"     defStyleNum="dsNormal"   color="#000000" selColor="#ffffff" bold="0" italic="0"/>
+      <itemData name="Objects"         defStyleNum="dsKeyword"  color="#800000" selColor="#ffffff" bold="0" italic="0"/>
+      <itemData name="Transforms"      defStyleNum="dsKeyword"  color="#000080" selColor="#ffffff" bold="0" italic="0"/>
+      <itemData name="Declaration"     defStyleNum="dsKeyword"  color="#000080" selColor="#000080" bold="1" italic="0"/>
+      <itemData name="Macro"           defStyleNum="dsKeyword"  color="#000080" selColor="#000080" bold="1" italic="0"/>
+      <itemData name="Declare Keyword" defStyleNum="dsKeyword"  color="#990099" selColor="#990099" bold="1" italic="0"/>
+      <itemData name="Declare Macro"   defStyleNum="dsKeyword"  color="#CC0000" selColor="#990099" bold="1" italic="0"/>
+      <itemData name="Functions"       defStyleNum="dsKeyword"  color="#000080" selColor="#ffffff" bold="0" italic="0"/>
+      <itemData name="Directives"      defStyleNum="dsOthers"   color="#3300ff" selColor="#3300ff" bold="1" italic="0"/>
+      <itemData name="Constant"        defStyleNum="dsFloat"    color="#0000ff" selColor="#ffffff" bold="0" italic="0"/>
+      <itemData name="Float"           defStyleNum="dsFloat"    color="#0000ff" selColor="#ffffff" bold="0" italic="0"/>
+      <itemData name="Char"            defStyleNum="dsChar"     color="#000080" selColor="#ffffff" bold="0" italic="0"/>
+      <itemData name="String"          defStyleNum="dsString"   color="#ff0000" selColor="#ff0000" bold="0" italic="0"/>
+      <itemData name="String Char"     defStyleNum="dsChar"     color="#ff00ff" selColor="#ff00ff" bold="0" italic="0"/>
+      <itemData name="Comment"         defStyleNum="dsComment"  color="#008000" selColor="#008000" bold="0" italic="0"/>
+      <itemData name="Symbol"          defStyleNum="dsNormal"   color="#660099" selColor="#660099" bold="0" italic="0"/>
+      <itemData name="Region Marker"   defStyleNum="dsRegionMarker"/>
+<!--      <itemData name="Region Marker" defStyleNum="dsRegionMarker" />-->
+    </itemDatas>
+  </highlighting>
+
+  <general>
+    <comments>
+      <comment name="singleLine" start="//" />
+      <comment name="multiLine" start="/*" end="*/" />
+    </comments>
+    <keywords casesensitive="1" />
+  </general>
+</language>
