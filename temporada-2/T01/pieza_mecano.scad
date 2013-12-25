@@ -19,9 +19,10 @@ module pieza_mecano(drill=3, d=10, n=4, anchura=10, grosor=3)
 }
 
 //-- Ejemplos de utilizacion
-pieza_mecano();
+color("blue")
+pieza_mecano(n = 10);
 
-
+color("green")
 translate([0,20,0])
-  pieza_mecano(n=2);
+  pieza_mecano(n=4);
 
