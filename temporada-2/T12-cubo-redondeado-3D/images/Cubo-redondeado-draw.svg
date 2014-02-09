@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Cubo-redondeado-draw.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3959"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3962"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3962-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3962-5-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3962-5-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3962-5-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3962-5-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3959-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3962-5-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="426.83221"
+     inkscape:cy="705.93405"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="227.85714,735.71429"
+       id="guide3175" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="484.28571,737.14286"
+       id="guide3177" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="113.74271"
+       x="7.7564421"
+       id="image3079"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtwAAAIwCAIAAAA6TSvHAAAAA3NCSVQICAjb4U/gAAASdUlEQVR4
+nO3dz2/k913H8c/XHnvt3c3+jDZsTKGquPRAJQ4NRREckLhWQqIiUrUVArQHwh+xf0RByqqK1JAD
+RAgOlVpVSAmCAxAOIHHmVDYlq2a7m3htd9ee4TCLdzw/vp4Zz8z3NePH45DE35l4voevPU9/3p+Z
+qTqdBwWgx9279+7fv9f0WQDnzlrTJwAAUIooAQBCiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAi
+iBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIA
+IIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIo
+AQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAi
+iBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIA
+IIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIo
+AQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAi
+iBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIA
+IIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIo
+AQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAi
+iBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIA
+IIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIo
+AQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAiiBIAIIIoAQAi
+VJ3Og6bPgTgffPDhqJt2dl6dxyPu/s97gwdb61WrVVVVaXc63SOHz0sp5fCoM49zgATdy3v/oPvP
+dill76D969/40wWfxptvfm3BjwillFbTJ8C5Vt8iXX1FAufB9la1f9DZ3nqxmP3f//nu3kG7lLL4
+OoFFEiU0oKZFSimDOVIUCedPt0tKKcdpUtQJq06UsDhjtkg5mSNFkXBeHXdJ+f802T9oX9xaK6X8
+179+r3tcnbBKRAlzV98ipTZHiiLhfOvtkjKQJkWdsFpECXPU+ez9Usql7RMv8qo2q3Kh58jJV4Ct
+D2xi3TgYyJRnNrqysn7xrN13ZHOj+vmTo94ju3sn7vPoyVEp5aMfvfP486Pf/8M/m/cZwvx4STDz
+0i2SPvVFUgZfVjNQJMDNa+u9X964+uLLa1fW//5v/rKJM4LZECXMxWyKBBihpks++tE70oQlJUqY
+sc5n7w8WSbVZnSiStfGKxDIJlFJKuX51ffDgqC4plkxYWqKEWapbIOktkj7WSGAqg11ilMNSEyXM
+zOkLJGU2V1xrszr9TrBahi6WlIEuKUY5LDNRwgyMGtmUUk4vklHLJGY3MC2jHJaUKOGsxhrZlAmL
+BBgw/mJJ0SUsJ+9Twpl0Hr1fBmYpVbdFWj03jKrfmjlMpVc4j46O6m7dG7GCuL219tOH/e8zuFaV
+nz48PP7yvXe/+50//vMznyDMkZUSptd5NGyNpFsk22NcWjXLJE/73z8KOKPNVvXeu99t+iygjihh
+ShMUiasMZuSXXh25vH371sawg/331yUk83RBQ+wmgYXo7ZLNVlV0CcFECdOwTAKBhi6W9NlseUU9
+uTxjMDFFAsulb4hjcwmxPGkwAxNsbu2qn93Y5Qqj1WwrKeMtlnTpEgKJEiYzdJlkOBcXxBhcLGnq
+TKCG5w0m8KXL/zB4cMbLJMB8GOKQT5QwrsmKxJUFDRl/glMMcQjjqYPpVRdcP9CA+m0lNYYOcXQJ
+ObzNPGN5tfXj/YNSSjk6erkLdbuUUkp1aa08P7k1db0qo/aqPj9ldnO4O9Yu1719m2FZTbt7Y13b
+j7+oezv67e21n3zS/67zXYcn56drVdl5bYKVFZgrf+kCABFECad7tfXjwYPbWy4eWD5Df3I/+uE7
+iz8TGOR5hTOpLg1cQuteagjANEQJwLn24NPhu09g8UQJp5jl7Oa0Xa7A5Yuz+bX8pddHbl81wSGW
+KGF6Q2Y3ADAtTyrMlA0lsIRMcAghSpiY191A4355Dm8uYoJD4zy7UGfohpIusxtYXv60IJPrkkWx
+yxUWq2av6yATHBKIEiZT9wfWmTeUjPke88CcmODQLFHCSDWzGwCYOR/Ix0ifPR7yiV8XNjqllCuX
+18qT/ltbtSslz8YY3zyp/YyxXk99IB+ra/fpWJf3zx4dnnqfn39e9zP15Z0T852jdseH89EsKyUA
+QARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARR
+AgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBE
+ECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUA
+QARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARR
+AgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBE
+ECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEECUAQARRAgBEaM3vW9+9e29+35yFuNz91+99Y7fZ
+86BZ//Qf13q//J3feNzUmbAAP/jBP5ZSvv/9v2v6RJje/fv3mj6FKVWdzoOmz4E4H3zwYSml2v3h
+4E0XNjqllCuXh6yxtdarmu/57Hnn1Md98sXRmGf4dL895j1h6ew+Hevy/sn/Pj/1Pp88PKy59cs7
+G31Hdl7b+OrX/6SU8uabXxvnHGC2jG8AgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACI
+IEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoA
+gAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAii
+BACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACI
+IEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoA
+gAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAiiBACIIEoAgAii
+BACIIEoAgAitpk+AXJ88PBw8eGGjXUr55GF55dJ6302t/gMnPHveOfURP99tj3luT/fHvScsnad7
+Y13en/5syE9on1s3R/5Y/srtzb4jr7/mGYGGWSlhpNtf+WbTpwDAOSJKmMzewcgFj8Ojs37zK5dd
+kNCkW7/2R02fAuea5wCm9MXTyRpkc6Oa05kAQ928XjtSPcnshgSihDomOLCSBjeUQAJRwsRqJjjA
+Yjz49PnMv6fZDY0TJczS2beVAItndkMIUcIpaiY4k24rAYAaooRpTDfBsdcVTjXmm5ScqmaX69AN
+JWY3JBAlAOea2Q05RAlnMjjBsa0EgOmIEk43dFuJ1+DAMjK7IZkoAQAiGCUylttf+ea//fPfllKO
+jk6MZ7a31kp5fmm7v27XR7+T5OHhKUssX4yx0W/fOg0ram+8D5us/0yG27c2Rt109ZUT/+Otm54F
+CGKlBGDJTP0pUa/fOpEg3SK5tPOdGZwTzIIoYVy/+dt/MHhw/6BdSnk68Lfdke2u0JBRyyR9RdKl
+SIgiSpjARF0ySqvl3UqgebduthQJaUQJk/nWt98edVNfl1gsgcUbc5nEVhIyiRJmoLtYMmhUl9Qv
+lrxy0WUJI029oeSYrSTE8tufiQ1dLJl0iAMszOBuEkVCJlHCNMbvEkMcWJiaVwIfs5WEZKKEKdVs
+LhmH7a6wGL3LJLaSEE6UMEuzWiyxrQSGqtlQMnSZxOCG5eJXP9M74+YSiyWwSAY35LOUx5l869tv
+//Vf/UXfwd299rNnnUePjw5+8TJN1taGJEinM/Ld4re36or5wqagYTXdvD76MxpKuXF1+K03rg75
+ZX7j2ss7X7+yvnX7zhnPDebNSgln9dadIeslm5tVKWXrwssLrN0e0h9VpS1gXIqElWelhBnodknf
+ksnmi8WMteP1kna7M7heUlXV0PWS/YN2/WIJMMpxkVy/sl5KUSQsC7/0mZlRSyYzXy8xu+EcGn+Z
+pLdItm7fUSQsEVHCLNV0yXGatNudoWkyaNQbxQJdfUVy49p6X5E0cVIwPeMbZmy6Uc6oIQ5QRiyT
+DBZJ9z/kCMvLSglzMcUox6ZXGJ8iYSWJEublrTtvD6bJ4Cin99bBLjHBgUGKhFVlfMN8vXXn7X/5
+8P7g8aOj8vzwRZH0zW36XqCzMfAea+suW1bX+nr/Bb994cRfjxe3Ttzh4vZa9z5Xf9Ubo7H0/HZn
+7n7rd+92/6O3TtbXX/zyHayTdudElzw/7Ax2CZwTvUXSmyNahJUkSlicMeuk0yndqc5xmugSzqeh
+RXJxe02LsKpECQ0Yp0760kSXcN4cF0k3R7QI54EooUnHdVJ6AqWvTo7TRJdwfnSL5OJWpUU4V6pO
+50HT5wBkuXv33v3795o+C+Dc8ZJgACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogS
+ACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCC
+KAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEA
+IogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogS
+ACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCC
+KAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACCCKAEA
+IogSACCCKAEAIogSACCCKAEAIogSACCCKAEAIogSACBCq+kTmL2q2uk70uk8aORMAIDxrWCU9CZI
+Ve0oEgBYCqs8vlEkALBEVjZKFAkALJfVjBJFAgBLZwWjRJEAwDJawY2uZeAFOBoFAPKtYJRIEABY
+Ris4vgEAltEqR0lVWTIBgKWxylECACwRUQIARBAlAEAEUQIARBAlAEAEUQIARBAlAEAEUQIARBAl
+AEAEUQIARBAlAEAEUQIARBAlAEAEUQIARBAlAEAEUQIARBAlAEAEUQIARBAlAEAEUQIARBAlAEAE
+UQIARBAlAEAEUQIARBAlAEAEUQIARBAlAEAEUQIARFi1KKmqnZovV+9xAWBlrFqUdDoPeoLgjU7n
+weIft6p2Fva4ALAyWk2fwOz19MHHjTyuIgGAKaxglLzwcfn4jTf+vZrjI3xdfADA7KxglLycnnSa
+eVzjGwCYwqrtKWkqCHof9+S+FgBgLKsWJU0tUfQ9rpUSAJjUqkUJALCkRAkAEEGUAAARRAkAEEGU
+AAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAAR
+RAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkA
+EEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGU
+AAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEEGUAAARRAkAEOH/AG18AQx22rLJAAAA
+AElFTkSuQmCC
+"
+       height="560"
+       width="732"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3082-1-1-9"
+       sodipodi:cx="-209.60666"
+       sodipodi:cy="316.46606"
+       sodipodi:rx="4.5456862"
+       sodipodi:ry="4.5456862"
+       d="m -205.06097,316.46606 a 4.5456862,4.5456862 0 1 1 -9.09138,0 4.5456862,4.5456862 0 1 1 9.09138,0 z"
+       transform="translate(693.57143,143.57143)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99680859px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 482.4984,314.50663 31.41422,-25.37652"
+       id="path3179"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95150554px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-9)"
+       d="m 229.33238,312.00504 -40.09463,0"
+       id="path4417"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="493.21429"
+       y="298.43362"
+       id="text4603"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4605"
+         x="493.21429"
+         y="298.43362">r</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95150554px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-9)"
+       d="m 484.9527,312.00504 40.09463,0"
+       id="path4417-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95150554px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend-9)"
+       d="m 526.8541,266.0431 -339.66853,0"
+       id="path4417-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79965651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.79965652, 1.59931305;stroke-dashoffset:0"
+       d="m 186.37314,249.11064 0,27.12958"
+       id="path4847"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79965651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.79965652, 1.59931305;stroke-dashoffset:0"
+       d="m 529.31993,249.11064 0,27.12958"
+       id="path4847-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="332.14285"
+       y="258.79074"
+       id="text4885"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4887"
+         x="332.14285"
+         y="258.79074">lx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="199.8665"
+       y="308.43362"
+       id="text4603-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4605-1"
+         x="199.8665"
+         y="308.43362">r</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95150554px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-9)"
+       d="m 227.4779,312.76631 0,-35.53296"
+       id="path4417-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 230.60168,311.92036 253.47957,0"
+       id="path4934"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3082-1-1"
+       sodipodi:cx="-209.60666"
+       sodipodi:cy="316.46606"
+       sodipodi:rx="4.5456862"
+       sodipodi:ry="4.5456862"
+       d="m -205.06097,316.46606 a 4.5456862,4.5456862 0 1 1 -9.09138,0 4.5456862,4.5456862 0 1 1 9.09138,0 z"
+       transform="translate(693.57143,-4.2857156)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79965657;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.79965654, 1.59931308;stroke-dashoffset:0"
+       d="m 357.08748,279.11663 0,221.40327"
+       id="path4847-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="218.43793"
+       y="294.50507"
+       id="text4603-0-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4605-1-0"
+         x="218.43793"
+         y="294.50507">r</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79965657;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.79965654, 1.59931308;stroke-dashoffset:0"
+       d="m 186.99951,385.27258 339.16579,0"
+       id="path4847-0-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff6600;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3082"
+       sodipodi:cx="-209.60666"
+       sodipodi:cy="316.46606"
+       sodipodi:rx="4.5456862"
+       sodipodi:ry="4.5456862"
+       d="m -205.06097,316.46606 a 4.5456862,4.5456862 0 1 1 -9.09138,0 4.5456862,4.5456862 0 1 1 9.09138,0 z"
+       transform="translate(566.79097,68.9719)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95150554px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-9)"
+       d="m 227.61607,459.79131 0,35.87656"
+       id="path4417-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 227.53686,310.73816 0,148.83653"
+       id="path4934-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3082-1"
+       sodipodi:cx="-209.60666"
+       sodipodi:cy="316.46606"
+       sodipodi:rx="4.5456862"
+       sodipodi:ry="4.5456862"
+       d="m -205.06097,316.46606 a 4.5456862,4.5456862 0 1 1 -9.09138,0 4.5456862,4.5456862 0 1 1 9.09138,0 z"
+       transform="translate(437.85714,-4.2857192)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3082-1-1-9-7"
+       sodipodi:cx="-209.60666"
+       sodipodi:cy="316.46606"
+       sodipodi:rx="4.5456862"
+       sodipodi:ry="4.5456862"
+       d="m -205.06097,316.46606 a 4.5456862,4.5456862 0 1 1 -9.09138,0 4.5456862,4.5456862 0 1 1 9.09138,0 z"
+       transform="translate(437.85714,143.57143)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="217.03909"
+       y="478.13925"
+       id="text4603-0-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4605-1-6"
+         x="217.03909"
+         y="478.13925">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="416.33023"
+       y="306.21899"
+       id="text4603-0-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4605-1-2"
+         x="416.33023"
+         y="306.21899">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="290.61594"
+       y="306.21899"
+       id="text4603-0-7-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4605-1-2-6"
+         x="290.61594"
+         y="306.21899">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="208.11594"
+       y="363.00473"
+       id="text4603-0-7-9-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4605-1-2-6-8"
+         x="208.11594"
+         y="363.00473">z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="208.11594"
+       y="431.93329"
+       id="text4603-0-7-9-9-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4605-1-2-6-8-2"
+         x="208.11594"
+         y="431.93329">z</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79965651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.79965652, 1.59931305;stroke-dashoffset:0"
+       d="m 159.67637,275.80742 27.12958,0"
+       id="path4847-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79965651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.79965652, 1.59931305;stroke-dashoffset:0"
+       d="m 159.67637,496.52575 27.12958,0"
+       id="path4847-6-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95150548px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend-9)"
+       d="m 175.69745,494.21896 0,-216.94559"
+       id="path4417-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="155.57536"
+       y="367.38214"
+       id="text4885-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T12-cubo-redondeado-3D/images/cubo-redondeado-3d-7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4887-2"
+         x="155.57536"
+         y="367.38214">lz</tspan></text>
+  </g>
+</svg>
