@@ -18,10 +18,10 @@ module rcylinder(r = 4,
   hc = (both == true) ? h - 2 * r : h - r;
   
   //-- Calcular la traslacion para centrar el cilindro
-  pcenter = (center == true) ? 0 : h/2;
+  posc = (center == true) ? 0 : h/2;
   
   //-- Aplicar traslaciopn para el centrado
-  translate([0, 0, pcenter]) 
+  translate([0, 0, posc]) 
   
     //-- Cilindro con ambas tapas redondeadas
     //-- Se pone un cilindro de altura hc y una esfera
