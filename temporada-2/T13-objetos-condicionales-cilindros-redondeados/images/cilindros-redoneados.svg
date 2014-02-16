@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="cilindros-redoneados.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3866"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3869"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3869-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3866-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4728"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4730"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3869-71"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3869-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-91"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3869-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-1-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3866-9-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-91-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3869-4-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-1-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3866-9-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-91-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3869-4-21"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="386.9943"
+     inkscape:cy="738.19649"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="72.857143,925"
+       id="guide5380" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="back"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="35.410217"
+       x="21.246286"
+       id="image3079"
+       xlink:href="data:image/png;base64,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
+wmlUF9AAAAAASUVORK5CYII=
+"
+       height="551"
+       width="703"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 173.59395,128.95577 0,313.27868"
+       id="path3086"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="156.96233"
+       y="265.95844"
+       id="text4486"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4488"
+         x="156.96233"
+         y="265.95844">h</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 238.54108,127.06245 -52.52794,0"
+       id="path4498"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="210.25679"
+       y="121.00154"
+       id="text4684"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4686"
+         x="210.25679"
+         y="121.00154">r</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:2.58699965;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4692"
+       sodipodi:cx="-136.07143"
+       sodipodi:cy="33.433609"
+       sodipodi:rx="4.6428571"
+       sodipodi:ry="4.6428571"
+       d="m -131.42857,33.433609 a 4.6428571,4.6428571 0 1 1 -9.28571,0 4.6428571,4.6428571 0 1 1 9.28571,0 z"
+       transform="matrix(0.38654816,0,0,0.38654816,289.98458,114.3249)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 396.91348,179.42163 -41.02762,-32.8012"
+       id="path4498-6"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="20.120609"
+       inkscape:transform-center-y="-19.237414"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="393.77036"
+       y="-113.77496"
+       id="text4684-2"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="12.455813"
+       inkscape:transform-center-y="-25.913681"
+       transform="matrix(0.78106277,0.62445252,-0.62445252,0.78106277,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4686-0"
+         x="393.77036"
+         y="-113.77496">r</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:2.58699965;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4692-3"
+       sodipodi:cx="-136.07143"
+       sodipodi:cy="33.433609"
+       sodipodi:rx="4.6428571"
+       sodipodi:ry="4.6428571"
+       d="m -131.42857,33.433609 a 4.6428571,4.6428571 0 1 1 -9.28571,0 4.6428571,4.6428571 0 1 1 9.28571,0 z"
+       transform="matrix(0.30191838,0.24138097,-0.24138097,0.30191838,445.04808,201.59683)"
+       inkscape:transform-center-x="0.35936986"
+       inkscape:transform-center-y="-3.2252199"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 556.91348,179.42162 515.88586,146.62043"
+       id="path4498-6-1"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="20.120609"
+       inkscape:transform-center-y="-19.237414"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="518.74042"
+       y="-213.68738"
+       id="text4684-2-9"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="12.455813"
+       inkscape:transform-center-y="-25.913681"
+       transform="matrix(0.78106277,0.62445252,-0.62445252,0.78106277,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4686-0-1"
+         x="518.74042"
+         y="-213.68738">r</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:2.58699965;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4692-3-5"
+       sodipodi:cx="-136.07143"
+       sodipodi:cy="33.433609"
+       sodipodi:rx="4.6428571"
+       sodipodi:ry="4.6428571"
+       d="m -131.42857,33.433609 a 4.6428571,4.6428571 0 1 1 -9.28571,0 4.6428571,4.6428571 0 1 1 9.28571,0 z"
+       transform="matrix(0.30191838,0.24138097,-0.24138097,0.30191838,605.04808,201.59682)"
+       inkscape:transform-center-x="0.35936986"
+       inkscape:transform-center-y="-3.2252199"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 555.81143,390.48174 -36.07565,38.18025"
+       id="path4498-6-1-5"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="20.842397"
+       inkscape:transform-center-y="18.45337"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="153.81274"
+       y="655.27496"
+       id="text4684-2-9-5"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-y="-1.6306433"
+       transform="matrix(0.77237906,-0.63516186,0.63516186,0.77237906,0,0)"
+       inkscape:transform-center-x="4.2115722"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4686-0-1-0"
+         x="153.81274"
+         y="655.27496">r</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:2.58699965;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4692-3-5-2"
+       sodipodi:cx="-136.07143"
+       sodipodi:cy="33.433609"
+       sodipodi:rx="4.6428571"
+       sodipodi:ry="4.6428571"
+       d="m -131.42857,33.433609 a 4.6428571,4.6428571 0 1 1 -9.28571,0 4.6428571,4.6428571 0 1 1 9.28571,0 z"
+       transform="matrix(0.30191838,0.24138097,-0.24138097,0.30191838,604.69094,413.02539)"
+       inkscape:transform-center-x="0.35936986"
+       inkscape:transform-center-y="-3.2252199"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,2;stroke-dashoffset:0"
+       d="m 447.49758,179.50504 20.35956,0"
+       id="path4869"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-1);marker-end:url(#Arrow1Mend-91)"
+       d="m 453.92857,181.28569 0,260.94942"
+       id="path4871"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5290"
+       transform="translate(0,-18.687822)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4486-3"
+         y="282.62595"
+         x="458.3909"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="282.62595"
+           x="458.3909"
+           id="tspan4488-8"
+           sodipodi:role="line">h</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5286"
+         y="286.9191"
+         x="466.18539"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="286.9191"
+           x="466.18539"
+           id="tspan5288"
+           sodipodi:role="line">c</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       d="m 606.59661,179.50504 20.35956,0"
+       id="path4869-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-1);marker-end:url(#Arrow1Mend-91)"
+       d="m 613.0276,181.12836 0,206.21076"
+       id="path4871-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(159.09903,-19.192896)"
+       id="g5290-9"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4486-3-1"
+         y="282.62595"
+         x="458.3909"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="282.62595"
+           x="458.3909"
+           id="tspan4488-8-1"
+           sodipodi:role="line">h</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5286-5"
+         y="286.9191"
+         x="466.18539"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="286.9191"
+           x="466.18539"
+           id="tspan5288-8"
+           sodipodi:role="line">c</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       d="m 606.59661,389.11169 20.35956,0"
+       id="path4869-0-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.00000001, 2;stroke-dashoffset:0"
+       d="m 162.77699,126.97711 21.97864,0"
+       id="path4869-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:2.58699965;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4692-1"
+       sodipodi:cx="-136.07143"
+       sodipodi:cy="33.433609"
+       sodipodi:rx="4.6428571"
+       sodipodi:ry="4.6428571"
+       d="m -131.42857,33.433609 a 4.6428571,4.6428571 0 1 1 -9.28571,0 4.6428571,4.6428571 0 1 1 9.28571,0 z"
+       transform="matrix(0.38654816,0,0,0.38654816,289.98458,271.9087)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:2.58699965;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4692-1-5"
+       sodipodi:cx="-136.07143"
+       sodipodi:cy="33.433609"
+       sodipodi:rx="4.6428571"
+       sodipodi:ry="4.6428571"
+       d="m -131.42857,33.433609 a 4.6428571,4.6428571 0 1 1 -9.28571,0 4.6428571,4.6428571 0 1 1 9.28571,0 z"
+       transform="matrix(0.38654816,0,0,0.38654816,448.07345,271.9087)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:2.58699965;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4692-1-5-7"
+       sodipodi:cx="-136.07143"
+       sodipodi:cy="33.433609"
+       sodipodi:rx="4.6428571"
+       sodipodi:ry="4.6428571"
+       d="m -131.42857,33.433609 a 4.6428571,4.6428571 0 1 1 -9.28571,0 4.6428571,4.6428571 0 1 1 9.28571,0 z"
+       transform="matrix(0.38654816,0,0,0.38654816,607.67755,271.9087)"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-1);marker-end:url(#Arrow1Mend-91)"
+       d="m 146.78571,286.70662 0,155.82183"
+       id="path4871-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="150.53375"
+       y="354.19067"
+       id="text4486-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4488-5"
+         x="150.53375"
+         y="354.19067">h</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 149.43439,357.28187 12.12184,0"
+       id="path5491"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="150.94963"
+       y="369.90875"
+       id="text5493"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5495"
+         x="150.94963"
+         y="369.90875">2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.99999998, 1.99999998;stroke-dashoffset:0"
+       d="m 130.00937,284.50504 425.69553,0"
+       id="path5504"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutorial-openscad/temporada-2/T13-objetos-condicionales-cilindros-redondeados/images/rcilinder-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
