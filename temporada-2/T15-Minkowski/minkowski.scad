@@ -25,8 +25,10 @@ minkowski() {
   //rcylinder(r = r, h = 2 * r, both = false, center = true, $fn = 10);
 }
 
+// Pieza original, para compararla con la conseguido con minkowski
 *pieza();
 
+//-- La otra pieza utilizada con minkowski
 *color("red")
 translate([-size[X]/2, 0, size[Z]/2])
 cylinder(r = r, h = 1, center = true, $fn = 10);
