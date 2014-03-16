@@ -1,23 +1,17 @@
-//-- Parametros de la rueda
-d = 50;  //-- Diametro rueda
-ds = 3;
-b = ds/2;
-h = ds + 2;  //-- Grosor
+//-- Parametros del toroide
+ri = 10;
+ds = 10;
 
+//-- Toroide, de seccion un hexagono
+*rotate_extrude($fn = 100)
+translate([ds/2 + ri, 0, 0])
+circle(d = ds, $fn = 6);
 
-difference() {
-  cylinder(d = d, h = h, center = true, $fn = 100);
-
-  //color("blue")
-  rotate_extrude(convexity = 10, $fn = 100)
-  translate([d/2 - b, 0, 0])
-  polygon(points = [[0, 0], 
-                    [b + 1, b + 1],
-                    [b + 1, -b - 1],
-                   ]);
-  cylinder(d = 3, h = h + 1, center = true, $fn = 20);
-  
+//-- Toroide, cuya seccion es la la union de
+//-- varios objetos 2D
+rotate_extrude($fn = 100)
+translate([ds/2 + ri, 0, 0]) {
+  translate([ds/2, 0, 0])
+  circle(d = ds);
+  square([ds,ds], center = true);
 }
-
-
-
