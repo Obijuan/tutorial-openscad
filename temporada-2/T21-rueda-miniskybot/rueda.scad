@@ -1,9 +1,11 @@
 //-- Parametros de la rueda
-d = 50;  //-- Diametro rueda
+di = 50;  //-- Diametro interno de la junta torica
 ds = 3;  //-- Diametro de la junta torica
-h = 6;   //-- Grosor de la rueda
+h = ds + 2;   //-- Grosor de la rueda
 
-//-- Para simplificar calculos
+
+//-- Parametros calculados
+d = di + 2 * ds;  //-- Diametro rueda
 r1 = d / 2; //-- Radio de la rueda
 r2 = ds / 2;  //-- Radio de la junta toria
 
@@ -15,14 +17,17 @@ module section()
     translate([r1 / 2, 0, 0])
       square([r1, h], center = true);
 
+    //-- Para alojamiento circular
     *translate([r1, 0, 0])
       circle(d = 3, $fn = 20);
 
-  translate([r1 - r2, 0, 0])
-  polygon(points = [[0, 0], 
-                    [r2 + 1, r2 + 1],
-                    [r2 + 1, -r2 - 1],
-                   ]);
+ 
+    //-- Para alojamiento triangular
+     translate([r1 - r2, 0, 0])
+       polygon(points = [[0, 0], 
+                        [r2 + 1, r2 + 1],
+                        [r2 + 1, -r2 - 1],
+                        ]);
   }
 }
 
