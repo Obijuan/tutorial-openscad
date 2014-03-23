@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.094488189"
+   height="1052.36220472"
+   id="svg3004"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="flecha-curva.dxf">
+  <metadata
+     id="metadata3030">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1151"
+     inkscape:window-height="869"
+     id="namedview3028"
+     showgrid="false"
+     inkscape:zoom="0.57489713"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
+     inkscape:window-x="233"
+     inkscape:window-y="81"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3024" />
+  <desc
+     id="desc3006">/home/obijuan/development/tutorial-openscad/temporada-2/T23-extruyendo-dibujos-2/flecha-curva.dxf - scale = 1.000000</desc>
+  <defs
+     id="defs3008">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path3011" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3014" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3016" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3018" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g3022" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Layer_1"
+     id="g3024">
+    <path
+       d="M -217.182798,1008.925600 L -213.425171,1006.340202 L -203.063871,999.574271 L -187.466258,990.113372 L -167.999730,979.443000 L -146.031661,969.048702 L -122.929409,960.415980 L -100.060359,955.030369 L -78.791893,954.377380 L -60.565270,960.933171 L -48.462782,974.461078 L -40.583101,993.009770 L -35.024871,1014.627901 L -29.886761,1037.364201 L -23.267420,1059.267200 L -13.265511,1078.385701 L 2.020309,1092.768300 L 23.002678,1098.951498 L 47.524528,1096.398500 L 73.632628,1087.547800 L 99.373759,1074.838100 L 122.794700,1060.707798 L 141.942221,1047.595500 L 154.863089,1037.939900 L 159.604101,1034.179398 L 156.699911,1030.896400 L 153.795720,1027.613399 L 150.891530,1024.330401 L 147.987340,1021.047498 L 145.083161,1017.764500 L 142.178970,1014.481499 L 139.274780,1011.198501 L 136.370590,1007.915499 L 147.103459,1006.905299 L 157.836331,1005.895201 L 168.569199,1004.885001 L 179.302071,1003.874900 L 190.034950,1002.864699 L 200.767819,1001.854602 L 211.500691,1000.844401 L 222.233559,999.834250 L 219.834450,1008.673101 L 217.435330,1017.511902 L 215.036220,1026.350802 L 212.637111,1035.189599 L 210.238002,1044.028400 L 207.838881,1052.867300 L 205.439769,1061.706100 L 203.040659,1070.544901 L 199.252591,1067.640700 L 195.464519,1064.736599 L 191.676451,1061.832402 L 187.888369,1058.928201 L 184.100301,1056.024000 L 180.312229,1053.119799 L 176.524161,1050.215598 L 172.736089,1047.311401 L 167.345401,1051.366100 L 152.702401,1061.781498 L 131.100750,1075.934300 L 104.834069,1091.201598 L 76.195998,1104.960001 L 47.480187,1114.586500 L 20.980258,1117.457901 L -1.010151,1110.951000 L -21.525569,1094.340798 L -35.680330,1075.966002 L -45.058822,1056.772701 L -51.245461,1037.707398 L -55.824640,1019.716299 L -60.380763,1003.745799 L -66.498233,990.742039 L -75.761440,981.651501 L -89.931200,978.471099 L -108.433559,981.398959 L -129.350820,988.683109 L -150.765272,998.571550 L -170.759179,1009.312299 L -187.414859,1019.153399 L -198.814589,1026.342900 L -203.040659,1029.128701 L -204.808429,1026.603301 L -206.576199,1024.077901 L -208.343959,1021.552501 L -210.111729,1019.027101 L -211.879499,1016.501800 L -213.647269,1013.976400 L -215.415028,1011.451000 L -217.182798,1008.925600"
+       style="stroke:#000000;fill:none"
+       id="path3026" />
+  </g>
+</svg>
